@@ -56,3 +56,11 @@ To enable colors in the output, which can be very helpful, enter this command:
 ```Shell Session
 git config --global color.ui auto
 ```
+
+Generate SSH key for GitHub authorization
+```
+cd ~/
+ssh-keygen -t rsa
+pbcopy < ~/.ssh/id_rsa.pub
+```
+Upload your public SSH key to GitHub
