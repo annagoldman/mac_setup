@@ -10,6 +10,19 @@
 2. Term2 Theme - https://github.com/MartinSeeler/iterm2-material-design
 3. iTerm2 Font -  Hasklig font (https://github.com/i-tu/Hasklig)
 
+## Misc. Apps
+* Spectacle - https://www.spectacleapp.com/
+```
+brew cask install spectacle
+```
+* Alfred - https://www.alfredapp.com/
+```
+brew cask install alfred
+```
+* VLC - https://www.videolan.org/vlc/download-macosx.html
+* Vanilla - https://matthewpalmer.net/vanilla/
+* Amphetamine - https://itunes.apple.com/us/app/amphetamine/id937984704
+
 ## Development Tools
 
 ### Xcode
@@ -64,3 +77,10 @@ ssh-keygen -t rsa
 pbcopy < ~/.ssh/id_rsa.pub
 ```
 Upload your public SSH key to GitHub
+
+### Install plugins
+
+Z
+```
+fisher add jethrokuan/z
+```
