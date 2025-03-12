@@ -18,14 +18,7 @@
 3. iTerm2 Font -  Hasklig font (https://github.com/i-tu/Hasklig)
 
 ## Misc. Apps
-* Spectacle - https://www.spectacleapp.com/
-```
-brew cask install spectacle
-```
-* Alfred - https://www.alfredapp.com/
-```
-brew cask install alfred
-```
+
 * VLC - https://www.videolan.org/vlc/download-macosx.html
 * Vanilla - https://matthewpalmer.net/vanilla/
 * Amphetamine - https://itunes.apple.com/us/app/amphetamine/id937984704
