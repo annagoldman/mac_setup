@@ -44,12 +44,18 @@ brew install fish
 ```
 #### Set Fish as the default shell 
 type ```fish``` to check if it was installed correctly, if installed correctly, type exit
-type ```which fish```, copy the path.
+
+type ```which fish```, copy the path
+
 type ```sudo sh -c 'echo <your-fish-path-here> >> /etc/shells' ```
+
 restart your terminal
+
 type ```chsh -s <your-fish-path-here> ```
+
 restart terminal again
-it should work now.
+
+it should work now
 
 ### Java JDK
 ```Shell Session
