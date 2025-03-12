@@ -5,6 +5,13 @@
 
 ## Essentials
 
+## Laptop Configs
+* Add Russian Keyboard
+  
+
+### Google Chrome
+1. Install Google Chrome
+
 ### iTerm2
 1. iTerm2 - https://www.iterm2.com/
 2. Term2 Theme - https://github.com/MartinSeeler/iterm2-material-design
