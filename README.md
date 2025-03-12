@@ -35,10 +35,7 @@ https://code.visualstudio.com/
 ### Homebrew
 
 ```Shell Session
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-$ brew tap homebrew/versions
-$ brew tap caskroom/cask
-$ brew doctor
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ### Java JDK
