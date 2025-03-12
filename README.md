@@ -19,9 +19,7 @@
 
 ## Misc. Apps
 
-* VLC - https://www.videolan.org/vlc/download-macosx.html
-* Vanilla - https://matthewpalmer.net/vanilla/
-* Amphetamine - https://itunes.apple.com/us/app/amphetamine/id937984704
+
 
 ## Development Tools
 
