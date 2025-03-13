@@ -101,6 +101,11 @@ brew install --cask zoom
 
 ### Sublime
 * install Sublime editor
+
+### WhatsApp
+* Install WhatsApp
+
+  
   
 ### Install plugins
 
