@@ -58,10 +58,7 @@ restart terminal again
 it should work now
 
 ### Java JDK
-```Shell Session
-$ brew tap caskroom/versions
-$ brew cask install java8
-```
+* install latest version of Java JDK
 
 ### Git
 ```Shell Session
