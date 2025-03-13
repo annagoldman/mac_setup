@@ -102,6 +102,9 @@ Upload your public SSH key to GitHub
 brew install --cask zoom
 ```
 
+### Sublime
+* install Sublime editor
+  
 ### Install plugins
 
 Z
