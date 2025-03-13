@@ -92,6 +92,11 @@ pbcopy < ~/.ssh/id_rsa.pub
 ```
 Upload your public SSH key to GitHub
 
+### Zotero
+* install the app
+* install the browser plug-in
+* login to sync data 
+
 ### Install plugins
 
 Z
