@@ -95,7 +95,12 @@ Upload your public SSH key to GitHub
 ### Zotero
 * install the app
 * install the browser plug-in
-* login to sync data 
+* login to sync data
+
+### Zoom
+```Shell Session
+brew install --cask zoom
+```
 
 ### Install plugins
 
